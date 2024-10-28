@@ -29,3 +29,15 @@
     justify-content: space-between;
     align-items: center;
 }
+
+#box1 {
+background-color: aqua;
+width: 20px;
+height: 20px;
+}
+#box2 {
+background-color: orange;
+width: 20px;
+height: 20px;
+}
+
